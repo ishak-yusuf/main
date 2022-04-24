@@ -5,8 +5,9 @@
 
 - 📄 Know about my experiences [https://flowcv.me/ishakyusuf](https://flowcv.me/ishakyusuf)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Tasks</h3>
 <p align="left">
+  Develop tools to handle RNA seq analysis 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
