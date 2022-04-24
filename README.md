@@ -6,7 +6,7 @@
 - 📄 Know about my experiences [https://flowcv.me/ishakyusuf](https://flowcv.me/ishakyusuf)
 
 <h3 align="left">Current Project:</h3>
-RNA seq includes:
+RNA-seq-pipeline includes:
 
 - Whole transcriptome analysis
 - RNAseq short variant discovery (SNPs + Indels)
