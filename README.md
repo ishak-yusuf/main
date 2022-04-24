@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [https://flowcv.me/ishakyusuf](https://flowcv.me/ishakyusuf)
 
-<h3 align="left">Current Project:</h3>
+<h3 align="left">Current Projects:</h3>
 1. RNA-seq-pipeline includes:
 
 - Whole transcriptome analysis
