@@ -6,15 +6,14 @@
 - 📄 Know about my experiences [https://flowcv.me/ishakyusuf](https://flowcv.me/ishakyusuf)
 
 <h3 align="left">Current Projects:</h3>
-1. RNA-seq-pipeline includes:
+I. RNA-seq-pipeline includes:
 
 - Whole transcriptome analysis
 - RNAseq short variant discovery (SNPs + Indels)
 - Novel transcripts from RNA-seq data
 - Gene fusion analysis
 
-2. NIPT project includes:
-
+II. NIPT project includes:
 - Aligned to the human reference genome, GRCh38 (hg38)
 - Extracted variant calling
 - Predicted the effects of variants and to annotate them against dbSNP and ClinVar
