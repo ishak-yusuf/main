@@ -16,9 +16,8 @@ I. RNA-seq-pipeline includes:
 II. NIPT project includes:
 - Aligned to the human reference genome, GRCh38 (hg38)
 - Extracted variant calling
-- Predicted the effects of variants and to annotate them against dbSNP and ClinVar
+- Predicted the effects of variants and to annotate them against dbSNP and ClinVar databases
 
-databases
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40">  
