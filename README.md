@@ -5,9 +5,11 @@
 
 - 📄 Know about my experiences [https://flowcv.me/ishakyusuf](https://flowcv.me/ishakyusuf)
 
-<h3 align="left">Tasks</h3>
+<h3 align="left">RNA tool includes:</h3>
 <p align="left">
-  Develop tools to handle RNA seq analysis 
+- Whole transcriptome analysis
+- RNAseq short variant discovery (SNPs + Indels)
+- Novel transcripts from RNA-seq data
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
