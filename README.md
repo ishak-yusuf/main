@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **y2021i@hotmail.com**
 
-- 📄 Know about my experiences [[https://flowcv.me/ishakyusuf]](https://app.flowcv.com/resume-feedback/x36soX_BS57pmuGEFzs4E)(https://flowcv.me/ishakyusuf)
+- 📄 Know about my experiences [[https://flowcv.me/ishakyusuf]](https://app.flowcv.com/resume-feedback/x36soX_BS57pmuGEFzs4E)
 
 
 <h3 align="left">Languages and Tools:</h3>
