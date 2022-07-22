@@ -5,11 +5,6 @@
 
 - 📄 Know about my experiences [https://flowcv.me/ishakyusuf](https://flowcv.me/ishakyusuf)
 
-<h3 align="left">Current Projects:</h3>
-NIPT project includes:
-- Aligned to the human reference genome, GRCh38 (hg38)
-- Extracted variant calling
-- Predicted the effects of variants and to annotate them against dbSNP and ClinVar databases
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
