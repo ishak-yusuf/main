@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishak Yusuf</h1>
 <h3 align="center">Bioinformatics Research Analyst</h3>
 
-- 📫 How to reach me **y2021i@hotmail.com**
-
+- 🧬 Develop pipelines such as WGS and WTS
 - 📄 Know about my experiences [[https://flowcv.me/ishakyusuf]](https://app.flowcv.com/resume-feedback/x36soX_BS57pmuGEFzs4E)
 
 
