@@ -2,9 +2,9 @@
 <h3 align="center">Bioinformatics Research Analyst</h3>
 
 - 🧬 Develop pipelines 
-     -  Whole exome sequencing
      -  Transcriptome sequencing
-- 📄 Know about my experiences [[https://flowcv.me/ishakyusuf]](https://app.flowcv.com/resume-feedback/x36soX_BS57pmuGEFzs4E)
+     -  Whole exome sequencing
+- 📄 To know more about my experiences [[https://flowcv.me/ishakyusuf]](https://app.flowcv.com/resume-feedback/x36soX_BS57pmuGEFzs4E)
 
 
 <h3 align="left">Languages and Tools:</h3>
