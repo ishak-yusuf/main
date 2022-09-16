@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishak Yusuf</h1>
-<h3 align="center">Bioinformatics Research Analyst</h3>
+<h3 align="center">Bioinformatics Scientist</h3>
 
 - 🧬 Develop pipelines 
      -  Transcriptome sequencing
