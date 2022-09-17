@@ -2,8 +2,7 @@
 <h3 align="center">Bioinformatics Scientist</h3>
 
 - 🧬 Develop pipelines 
-     -  Transcriptome sequencing
-     -  Whole exome sequencing
+     -  RnASeQ sequencing (*uploading*)
 - 📄 To know more about my experiences [[https://flowcv.me/ishakyusuf]](https://app.flowcv.com/resume-feedback/x36soX_BS57pmuGEFzs4E)
 
 
